@@ -1,0 +1,6 @@
+{
+  "name": "Blossom Flower Boutique",
+  "description": "An elegant, romantic flower boutique offering bespoke floral arrangements, seasonal bouquets, and meaningful blooms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
